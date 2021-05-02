@@ -315,6 +315,12 @@
 			"desc": "Protects loot dropped upon death",
 			"jarName": "LootProtect.jar",
 			"configName": "LootProtect"
+		},
+		{
+			"name": "Zombie Apocalyps",
+			"desc": "Zombie Apocalyps",
+			"jarName": "ZombieApocalyps.jar",
+			"configName": "ZombieApocalyps"
 		}
 	]
 }
